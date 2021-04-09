@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="407.947" height="264" viewBox="0 0 407.947 264">
+  <defs>
+    <style>
+      .cls-1, .cls-3 {
+        fill: none;
+        stroke: #fff;
+      }
+
+      .cls-2, .cls-4 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke-dasharray: 2;
+      }
+
+      .cls-4 {
+        font-size: 10px;
+        font-family: Poppins-Regular, Poppins;
+      }
+    </style>
+  </defs>
+  <g id="Group_6" data-name="Group 6" transform="translate(-1154 -739)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M1158.328,997.092s26.7-86.386,73.93-81.51,77.449,76.524,127.658,23.794,61.329-149.211,149.144-106.071,38.686-15.706,38.686-15.706"/>
+    <circle id="Ellipse_1" data-name="Ellipse 1" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1154 994)"/>
+    <circle id="Ellipse_2" data-name="Ellipse 2" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1238 913)"/>
+    <circle id="Ellipse_3" data-name="Ellipse 3" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1445 821)"/>
+    <circle id="Ellipse_4" data-name="Ellipse 4" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1366 922)"/>
+    <circle id="Ellipse_5" data-name="Ellipse 5" class="cls-2" cx="4.5" cy="4.5" r="4.5" transform="translate(1544 813)"/>
+    <g id="Group_1" data-name="Group 1">
+      <line id="Line_2" data-name="Line 2" class="cls-3" y1="154" transform="translate(1158.5 843.5)"/>
+      <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-2" width="9" height="9" transform="translate(1154 838)"/>
+    </g>
+    <text id="Il_camino_delle_Rose" data-name="Il camino delle Rose" class="cls-4" transform="translate(1169 847)"><tspan x="0" y="0">Il camino delle Rose</tspan></text>
+    <g id="Group_2" data-name="Group 2" transform="translate(84 32.8)">
+      <line id="Line_2-2" data-name="Line 2" class="cls-3" y1="41.45" transform="translate(1158.5 843.5)"/>
+      <rect id="Rectangle_7-2" data-name="Rectangle 7" class="cls-2" width="9" height="9" transform="translate(1154 838)"/>
+    </g>
+    <text id="Pont_Blanc" data-name="Pont Blanc" class="cls-4" transform="translate(1251 879)"><tspan x="0" y="0">Pont Blanc</tspan></text>
+    <g id="Group_3" data-name="Group 3" transform="translate(212 -27.81)">
+      <line id="Line_2-3" data-name="Line 2" class="cls-3" y1="106.31" transform="translate(1158.5 843.5)"/>
+      <rect id="Rectangle_7-3" data-name="Rectangle 7" class="cls-2" width="9" height="9" transform="translate(1154 838)"/>
+    </g>
+    <text id="Magic_Lake" data-name="Magic Lake" class="cls-4" transform="translate(1306 818)"><tspan x="0" y="0">Magic Lake</tspan></text>
+    <g id="Group_4" data-name="Group 4" transform="translate(291 -95.837)">
+      <line id="Line_2-4" data-name="Line 2" class="cls-3" y1="80.337" transform="translate(1158.5 843.5)"/>
+      <rect id="Rectangle_7-4" data-name="Rectangle 7" class="cls-2" width="9" height="9" transform="translate(1154 838)"/>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(390 -56.32)">
+      <line id="Line_2-5" data-name="Line 2" class="cls-3" y1="30.32" transform="translate(1158.5 843.5)"/>
+      <rect id="Rectangle_7-5" data-name="Rectangle 7" class="cls-2" width="9" height="9" transform="translate(1154 838)"/>
+    </g>
+    <text id="Punta_Blanc" data-name="Punta Blanc" class="cls-4" transform="translate(1481 790)"><tspan x="0" y="0">Punta Blanc</tspan></text>
+    <text id="Wild_Forest" data-name="Wild Forest" class="cls-4" transform="translate(1387 750)"><tspan x="0" y="0">Wild Forest</tspan></text>
+  </g>
+</svg>
